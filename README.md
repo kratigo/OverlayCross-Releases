@@ -7,7 +7,7 @@
 
 ### 🚀 Скачать / Download
 
-[![Download OverlayCross 2.0](https://img.shields.io/badge/⬇_DOWNLOAD-OverlayCross_2.0-8A2BE2?style=for-the-badge)](https://github.com/kratigo/OverlayCross/releases/download/v2.0.0/OverlayCross-Setup-2.0.exe)
+[![Download OverlayCross 2.0](https://img.shields.io/badge/⬇_DOWNLOAD-OverlayCross_2.0-8A2BE2?style=for-the-badge)](https://github.com/kratigo/OverlayCross-Releases/releases/download/v2.0.0/OverlayCross-Setup-2.0.exe)
 
 **Windows · Version 2.0 · Free**
 
